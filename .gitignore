@@ -1,0 +1,11 @@
+# .NET compiled files
+SampleCore2.1/bin
+SampleCore2.1/obj/Debug
+SampleCore2.1/obj/SampleCore2.1.csproj.*
+
+# vs code files
+.vscode
+
+# node packages
+SampleAngular6/node_modules
+SampleAngular6/dist
